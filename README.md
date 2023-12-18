@@ -2,7 +2,7 @@
 
 **If you want to make a clock with JS, please check out my code ♥️👀**
 
-
+https://github.com/Mehrsa-Mohajeri-Developer/Clock/assets/145048780/835150a0-202f-4bfd-9a93-2b5880fd7a7c
 
 - 🔗 [Demo Project](https://mehrsa-mohajeri-developer.github.io/Clock/)
   
